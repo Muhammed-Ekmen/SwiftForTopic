@@ -30,3 +30,15 @@ ready library usage for example ceil,floor,sqrt,pox,abs,max,min
 date and Calender usage
 
 Quiz 6
+
+creta a list and use its methods. add new value, add new value certain index, check the empty statue, check lenght of list,check any value is contain by list,
+reverse,sort, remove index and remove all, use filter with lists
+
+create empty list and dictionay
+
+create any dictionay and use with for loop.update any value.remove any value from key.
+
+create an dictionary from 2 list. use Dictionary and Zip.
+get key or values from any dictionay. and use filter method with dictionay
+
+use Set list.
