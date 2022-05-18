@@ -31,8 +31,8 @@ date and Calender usage
 
 Quiz 6
 
-creta a list and use its methods. add new value, add new value certain index, check the empty statue, check lenght of list,check any value is contain by list,
-reverse,sort, remove index and remove all, use filter with lists
+creta a list and use its methods. add new value, add new value certain index, check the empty statue, check lenght of list,check any value is contain 
+by list,reverse,sort, remove index and remove all, use filter with lists
 
 create empty list and dictionay
 
@@ -42,3 +42,27 @@ create an dictionary from 2 list. use Dictionary and Zip.
 get key or values from any dictionay. and use filter method with dictionay
 
 use Set list.
+
+
+Quiz 7
+
+create 3 function. First function will print anything. Second function will give 2 parameter and return of their total. Third function is inside the any 
+class. That is , this fucntion comes from class.
+
+use fcuntion with vardiac features. I mean, it is *args
+
+create a function which return 2 value at the same time.
+
+create a class with init and some feature. I mean, classic class structure.
+
+create a class and use static feature
+
+use enum class
+
+create 2 class. use inheritance between them. don't forget the use super.init
+
+create 2 class and use override with inheritance.
+
+create abstact class that is protocol
+
+use closure
